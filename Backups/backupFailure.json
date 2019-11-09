@@ -5,14 +5,15 @@
             "color": "danger",
             "author_name": "Jenkins",
             "author_link": "http://192.168.1.200:8080",
-            "author_icon": "https://jenkins.io/images/logos/jenkins/jenkins.png",
+            "author_icon": "https://global.download.synology.com/download/Package/img/HyperBackup/2.2.2-1113/thumb_256.png",
             "fields": [
                 {
-                    "title": "LMS Build 3.2",
+                    "title": "Machine",
+                    "value": "FireFly",
                     "short": true
                 },
                 {
-                    "value": "*Started By*: Billy Andrews",
+                    "value": "*Started By*: Cron",
                     "short": true
                 },
                 {
@@ -20,19 +21,11 @@
                     "short": true
                 },
                 {
-                    "value": "*Build Time*: 142s",
-                    "short": true
-                },
-                {
-                    "value": "*Reason*: The specified directory is empty.",
-                    "short": false
-                },
-                {
-                    "value": "*Location*: http://192.168.1.200:8080/lms3.2blahblahblah",
+                    "value": "*Reason*: ERROR: The specified disk is full.",
                     "short": false
                 }
             ],
-            "thumb_url": "https://pbs.twimg.com/profile_images/1133789171196342273/0f_sF1Lm_400x400.png",
+            "thumb_url": "https://global.download.synology.com/download/Package/img/HyperBackup/2.2.2-1113/thumb_256.png",
             "footer": "Tech Wizards, Inc.",
             "footer_icon": "https://pbs.twimg.com/profile_images/1133789171196342273/0f_sF1Lm_400x400.png"
         }

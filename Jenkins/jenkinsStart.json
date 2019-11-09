@@ -2,29 +2,25 @@
     "attachments": [
         {
             "fallback": "Required plain-text summary of the attachment.",
-            "color": "good",
+            "color": "#439FE0",
             "author_name": "Jenkins",
             "author_link": "http://192.168.1.200:8080",
             "author_icon": "https://jenkins.io/images/logos/jenkins/jenkins.png",
             "fields": [
                 {
                     "title": "LMS Build 3.2",
-                    "short": true
+                    "short": false
                 },
                 {
                     "value": "*Started By*: Billy Andrews",
                     "short": true
                 },
                 {
-                    "value": "*Status*: Success",
+                    "value": "*Status*: Kicked off",
                     "short": true
                 },
                 {
-                    "value": "*Build Time*: 142s",
-                    "short": true
-                },
-                {
-                    "value": "*Location*: http://192.168.1.200:8080/lms3.2blahblahblah",
+                    "value": "*Console Output*: http://192.168.1.200:8080/lms3.2blahblahblah",
                     "short": false
                 }
             ],
