@@ -1,3 +1,3 @@
-# slackbot-tutorial
+# Slack WebHooks
 
-Used in conjunction with this [tutorial](https://medium.freecodecamp.org/how-to-build-a-basic-slackbot-a-beginners-guide-6b40507db5c5)
+These commands create a webhook notification within Slack when something internally is completed, like system backups, Help desk tickets, build machine completions, etc.
