@@ -1,6 +1,8 @@
 # Jenkins:
 #  Send a success message
 curl -X POST -H 'Content-type: application/json' --data @jenkinsSuccess.json https://hooks.slack.com/services/*********/*********/*********************
+#  Send a start message
+curl -X POST -H 'Content-type: application/json' --data @jenkinsStart.json https://hooks.slack.com/services/*********/*********/*********************
 #  Send a failure message
 curl -X POST -H 'Content-type: application/json' --data @jenkinsError.json https://hooks.slack.com/services/*********/*********/*********************
 
