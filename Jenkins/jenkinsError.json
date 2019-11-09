@@ -1,0 +1,40 @@
+{
+    "attachments": [
+        {
+            "fallback": "Required plain-text summary of the attachment.",
+            "color": "danger",
+            "author_name": "Jenkins",
+            "author_link": "http://192.168.1.200:8080",
+            "author_icon": "https://jenkins.io/images/logos/jenkins/jenkins.png",
+            "fields": [
+                {
+                    "title": "LMS Build 3.2",
+                    "short": true
+                },
+                {
+                    "value": "*Started By*: Billy Andrews",
+                    "short": true
+                },
+                {
+                    "value": "*Status*: Failure",
+                    "short": true
+                },
+                {
+                    "value": "*Build Time*: 142s",
+                    "short": true
+                },
+                {
+                    "value": "*Reason*: The specified directory is empty.",
+                    "short": false
+                },
+                {
+                    "value": "*Location*: http://192.168.1.200:8080/lms3.2blahblahblah",
+                    "short": false
+                }
+            ],
+            "thumb_url": "https://pbs.twimg.com/profile_images/1133789171196342273/0f_sF1Lm_400x400.png",
+            "footer": "Tech Wizards, Inc.",
+            "footer_icon": "https://pbs.twimg.com/profile_images/1133789171196342273/0f_sF1Lm_400x400.png"
+        }
+    ]
+}
