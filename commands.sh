@@ -1,2 +1,2 @@
-curl -X POST -H 'Content-type: application/json' --data @body.json https://hooks.slack.com/services/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
-curl -X POST -H 'Content-type: application/json' --data @error.json https://hooks.slack.com/services/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
+curl -X POST -H 'Content-type: application/json' --data @body.json https://hooks.slack.com/services/*********/*********/*********************
+curl -X POST -H 'Content-type: application/json' --data @error.json https://hooks.slack.com/services/*********/*********/*********************
